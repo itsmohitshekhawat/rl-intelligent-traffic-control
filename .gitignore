@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+env/
+lib/
+bin/
+
+# Mac
+.DS_Store
+
+# Weights (optional)
+weights/
