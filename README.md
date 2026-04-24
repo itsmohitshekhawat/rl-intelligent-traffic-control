@@ -26,8 +26,6 @@
 10. [Running the Live Demo](#10-running-the-live-demo)
 11. [Advanced Topics: Training Parallelism](#11-advanced-topics-training-parallelism)
 12. [Why RL Is Hard (and How We Address It)](#12-why-rl-is-hard-and-how-we-address-it)
-13. [Research Paper & Citation](#13-research-paper--citation)
-14. [Contributing](#14-contributing)
 
 ---
 
